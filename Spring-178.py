@@ -1,3 +1,4 @@
+#Author Jurijus Pacalovas 
 import paq
 
 X = 0
